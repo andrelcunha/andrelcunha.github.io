@@ -1,0 +1,11 @@
+baseURL = "http://andrelcunha.github.io/
+languageCode = "en-us"
+title = "Andre Luis' Blog"
+publishDir = "docs"
+theme = "beautifulhugo"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-101666669-1"
+pygmentsuseclasses = true
